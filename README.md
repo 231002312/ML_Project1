@@ -1,2 +1,1 @@
-# ML_Project1
-neural network
+The aim of this project was to build a model which will predict if a client will subscribe or not. We performed encoding to convert variables into numerical values, scaling to ensure all inputs were on similr scale.And then we implemented a multilayer perceptron using tensor flow. Then for optimization started with logistic regression to establisg performance floor.The model was overfitting initially.. The final model allows bank to only target the most likely customers.
